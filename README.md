@@ -1,4 +1,4 @@
-### DATA LIT
+### PADH.AI
 > 3 months of mind crunching exercise
 
 
