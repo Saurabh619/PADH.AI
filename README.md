@@ -1,5 +1,5 @@
 ### DATA LIT
-======
+-------------
 
 > 3 months of mind crunching exercise
 _____________________________________
@@ -7,7 +7,7 @@ _____________________________________
 ### NLP Natural Language Processing 
 
 #### NLU Natural Language Understanding 
-======
+---------------------------------------
 
 ###### Sentiment Analysis
 - VADER Valence Aware Dictionary and sEntiment Reasoner
@@ -15,7 +15,7 @@ _____________________________________
 #### NLG Natural Language Generation
 
 ### Machine learning
-======
+---------------------
 
 ##### Supervised learning
 
@@ -24,10 +24,10 @@ _____________________________________
 ##### Reinforcement learning
 
 ### Deep Learning
-======
+-----------------
 
 #### Neaural Networks
-******
+---------------------
 
 - CNN Convolutional Neural Network
 
