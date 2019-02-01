@@ -4,34 +4,27 @@ _____________________________________
 
 
 ### NLP Natural Language Processing
-_____________________________________
 
 ##### NLU Natural Language Understanding 
-----------------------------------------
 
 > Sentiment Analysis
 - VADER Valence Aware Dictionary and sEntiment Reasoner
 
 ##### NLG Natural Language Generation
-----------------------------------------
+
 
 ### Machine learning
----------------------
 
 ###### Supervised learning
-----------------------------------------
 
 ###### Unsupervised learning
-----------------------------------------
 
 ###### Reinforcement learning
-----------------------------------------
 
 ### Deep Learning
------------------
 
 ##### Neaural Networks
----------------------
+------
 
 ###### CNN Convolutional Neural Network
 - 
