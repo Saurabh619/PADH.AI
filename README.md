@@ -1,9 +1,9 @@
-## data_lit
-- 3 months of mind crunching exercise
+### DATA LIT
+* 3 months of mind crunching exercise
 
 #### Natural Language Understanding 
 
-## Sentiment Analysis
+#### Sentiment Analysis
 - VADER Valence Aware Dictionary and sEntiment Reasoner
 
 #### Natural Language Generation
